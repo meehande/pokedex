@@ -1,0 +1,6 @@
+- unpack description from list of dictionaries in response
+
+- unit tests
+- dockerise
+- add storage? (lazily fill with habitats etc as requests come in so there's less fetching from apis)
+
